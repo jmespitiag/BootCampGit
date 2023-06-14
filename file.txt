@@ -1,0 +1,5 @@
+Clases: PascalCase
+
+El resto: snake_case
+
+ beno
